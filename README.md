@@ -31,9 +31,9 @@ Tenho experiência profissional em ambientes industriais e venho direcionando mi
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Industrial Data Analysis](https://github.com/larissa-stefany/industrial-data-analysis) | Análise de dados industriais com 100 mil registros para identificar gargalos de produtividade, qualidade, downtime e OEE | Python, SQL, Pandas, SQLite, Power BI |
+| [Industrial Data Analysis](https://github.com/larissa-stefany/industrial-data-analysis) | Análise de dados industriais com 100 mil registros sintéticos para identificar gargalos de produtividade, qualidade, downtime e OEE | Python, SQL, Pandas, SQLite, Power BI |
+| [Sales Data Analysis](https://github.com/larissa-stefany/sales-data-analysis) | Análise de vendas com dataset sintético, tratamento de dados, KPIs, consultas SQL, SQLite e análise exploratória | Python, SQL, Pandas, SQLite, Jupyter |
 | [COH-PIAH](https://github.com/larissa-stefany/COH-PIAH) | Projeto de análise de similaridade textual desenvolvido em Python | Python |
-| [Widerplanner](https://github.com/larissa-stefany/widerplanner) | Projeto de desenvolvimento de software desenvolvido como trabalho de conclusão de curso | Desenvolvimento de Software |
 
 ## Atualmente
 
