@@ -19,8 +19,6 @@ Tenho experiência profissional em ambientes industriais e venho direcionando mi
 ![Python](https://img.shields.io/badge/Python-333333?style=flat&logo=python&logoColor=3776AB)
 ![SQL](https://img.shields.io/badge/SQL-333333?style=flat&logo=postgresql&logoColor=4169E1)
 ![Power BI](https://img.shields.io/badge/Power%20BI-333333?style=flat&logo=powerbi&logoColor=F2C811)
-![Pandas](https://img.shields.io/badge/Pandas-333333?style=flat&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-333333?style=flat&logo=numpy&logoColor=013243)
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat&logo=github)
