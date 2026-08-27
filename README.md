@@ -29,7 +29,7 @@ Tenho experiência profissional em ambientes industriais e venho direcionando mi
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [File Organizer Python](https://github.com/larissa-stefany/file-organizer-python) | Automação em Python para organizar arquivos por categoria, tratar nomes duplicados, aplicar filtros e gerar relatórios de execução | Python, pathlib, shutil, argparse, unittest |
+| [File Organizer Python](https://github.com/larissa-stefany/file-organizer-python) | Automação em Python para organizar arquivos por categoria, tratar nomes duplicados, aplicar filtros e gerar relatórios de execução |Python, Automação, CLI, Testes |
 | [Sales Data Analysis](https://github.com/larissa-stefany/sales-data-analysis) | Análise de vendas com dataset sintético, tratamento de dados, KPIs, consultas SQL, SQLite e análise exploratória | Python, SQL, Pandas, SQLite, Jupyter |
 | [COH-PIAH](https://github.com/larissa-stefany/COH-PIAH) | Projeto de análise de similaridade textual desenvolvido em Python | Python |
 
